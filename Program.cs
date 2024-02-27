@@ -7,7 +7,7 @@ namespace Project01_Introduction
     class L1_Program
     {
         // All .NET programs begin with the main method
-        // It looks like this
+        // It looks like this main
         static void Main(string[] args)
         {
             // example 0 - first program
